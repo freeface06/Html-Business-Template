@@ -6,7 +6,7 @@
 <meta charset="utf-8" />
 <meta name="viewport"
 	content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
-<title>Projects - Digital Support</title>
+<title>Today</title>
 <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
 <link rel="stylesheet"
 	href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i" />
@@ -23,46 +23,27 @@
 <script src="assets/js/preloader.js"></script>
 
 <body>
-	<div class="loader-wrapper">
-		<div class="loader"></div>
-		<div class="loader-section section-left"></div>
-		<div class="loader-section section-right"></div>
-	</div>
-
-	<%@ include file="../layout/header.jsp"%>
-
 	<main class="page">
-		<section class="clean-block about-us">
-			<div class="container">
-				<div class="block-heading">
-					<h2 class="text-info">Projects</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-						Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
-				</div>
-				<div class="row justify-content-center">
-					<div class="col-sm-6 col-lg-4">
-						<div class="card text-center clean-card">
-							<img class="card-img-top w-100 d-block"
-								src="assets/img/building.jpg" />
-							<div class="card-body info">
-								<h4 class="card-title">Sample Project 1</h4>
-								<p class="card-text">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit.</p>
-								<div class="icons">
-									<a href="#"><i class="icon-social-github"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+		<img class="card-img-top w-100 d-block"
+			src="assets/img/scenery/image1.jpg" style="width: 507px !important" />
 	</main>
-	<%@ include file="../layout/footer.jsp"%>
+
+	<footer>
+		<hr>
+		<div class="txt-right pd-2">
+			<input type="checkbox" id="noAdToday"> <label for="noAdToday">오늘
+				하루 이 광고를 보지 않음</label>
+			<button class="btn btn-primary" type="button"
+				onclick="window.close()">닫기</button>
+		</div>
+	</footer>
+
+
 	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
 	<script
 		src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
 	<script src="assets/js/vanilla-zoom.js"></script>
 	<script src="assets/js/theme.js"></script>
+	<script src="assets/js/today.js"></script>
 </body>
 </html>

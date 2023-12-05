@@ -46,4 +46,9 @@ public class ViewController {
 		return "/view/login";
 	}
 	
+	@GetMapping("/today")
+	public String today() {
+		return "/popup/today";
+	}
+	
 }
