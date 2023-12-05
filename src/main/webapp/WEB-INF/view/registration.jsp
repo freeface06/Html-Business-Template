@@ -2,7 +2,6 @@
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-
 <head>
 <meta charset="utf-8" />
 <meta name="viewport"
@@ -19,14 +18,20 @@
 <link rel="stylesheet" href="assets/css/Projects-Horizontal.css" />
 <link rel="stylesheet" href="assets/css/Team-Boxed.css" />
 <link rel="stylesheet" href="assets/css/vanilla-zoom.min.css" />
-
+<link rel="stylesheet" href="assets/css/preloader.css" />
 </head>
-
+<script src="assets/js/preloader.js"></script>
 <body>
+
+	<div class="loader-wrapper">
+		<div class="loader"></div>
+		<div class="loader-section section-left"></div>
+		<div class="loader-section section-right"></div>
+	</div>
 
 	<%@ include file="../layout/header.jsp"%>
 
-	<main class="page registration-page">
+	<main class="page landing-page">
 		<section class="clean-block clean-form dark">
 			<div class="container">
 				<div class="block-heading">

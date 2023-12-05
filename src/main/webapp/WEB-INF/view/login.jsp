@@ -23,12 +23,11 @@
 <script src="assets/js/preloader.js"></script>
 
 <body>
-	<!-- <div class="loader-wrapper">
-      <div class="loader"></div>
-      <div class="loader-section section-left"></div>
-      <div class="loader-section section-right"></div>
-    </div>
-   -->
+	<div class="loader-wrapper">
+		<div class="loader"></div>
+		<div class="loader-section section-left"></div>
+		<div class="loader-section section-right"></div>
+	</div>
 
 	<%@ include file="../layout/header.jsp"%>
 

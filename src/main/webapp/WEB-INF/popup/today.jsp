@@ -33,8 +33,7 @@
 		<div class="txt-right pd-2">
 			<input type="checkbox" id="noAdToday"> <label for="noAdToday">오늘
 				하루 이 광고를 보지 않음</label>
-			<button class="btn btn-primary" type="button"
-				onclick="window.close()">닫기</button>
+			<button onclick="window.close()">닫기</button>
 		</div>
 	</footer>
 
