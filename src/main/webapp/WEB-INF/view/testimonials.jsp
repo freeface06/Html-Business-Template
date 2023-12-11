@@ -26,7 +26,7 @@
 
 	<main class="page testimonials">
 		<section class="clean-block clean-testimonials dark">
-			<div class="container">
+			<div class="container top-div">
 				<div class="block-heading">
 					<h2 class="text-info">Testimonials</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.

@@ -33,7 +33,7 @@
 
 	<main class="page login-page">
 		<section class="clean-block clean-form dark">
-			<div class="container">
+			<div class="container top-div">
 				<div class="block-heading">
 					<h2 class="text-info">
 						<i class="fa fa-user fa-1x" aria-hidden="true"></i> Log In

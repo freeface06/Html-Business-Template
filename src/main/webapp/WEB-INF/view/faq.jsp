@@ -33,7 +33,7 @@
 
 	<main class="page faq-page">
 		<section class="clean-block clean-faq dark">
-			<div class="container">
+			<div class="container top-div">
 				<div class="block-heading">
 					<h2 class="text-info">FAQ</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.

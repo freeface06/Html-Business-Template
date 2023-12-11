@@ -33,7 +33,7 @@
 
 	<main class="page">
 		<section class="clean-block about-us">
-			<div class="container">
+			<div class="container top-div">
 				<div class="block-heading">
 					<h2 class="text-info">Projects</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.

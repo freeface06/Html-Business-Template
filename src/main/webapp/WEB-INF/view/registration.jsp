@@ -33,7 +33,7 @@
 
 	<main class="page landing-page">
 		<section class="clean-block clean-form dark">
-			<div class="container">
+			<div class="container top-div">
 				<div class="block-heading">
 					<h2 class="text-info">
 						<i class="fa fa-user-circle fa-1x" aria-hidden="true"></i>
