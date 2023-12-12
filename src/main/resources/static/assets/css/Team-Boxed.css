@@ -119,6 +119,14 @@
 	padding: 1%;
 }
 
+@media ( max-width : 992px) {
+	.logo-img {
+	width: 16%;
+	cursor: pointer;
+	padding: 1%;
+	}
+}
+
 .hide-map {
 	display: none;
 }

@@ -55,8 +55,8 @@
 		</div>
 	</section>
 	<div class="text-center p-4"
-		style="background-color: rgba(0, 0, 0, 0.05);">Copyrightⓒ2023
-		BLUEDATA SYSTEMS co., ltd. All rights reserved.</div>
+		style="background-color: rgba(0, 0, 0, 0.05);">Copyright ⓒ 2023
+		bluedatasystems ALL Rights Reserved.</div>
 
 </footer>
 
