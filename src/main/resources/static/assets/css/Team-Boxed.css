@@ -182,3 +182,7 @@
 .text-left {
 	text-align: left;
 }
+
+footer p {
+	margin: 0 !important;
+}
